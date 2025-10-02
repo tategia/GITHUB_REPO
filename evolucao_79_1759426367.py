@@ -1,0 +1,1 @@
+# Legado de Prometheus (Geração 1)\n# Meta: Melhorar a utilização de memoria e reduzir a complexity do código para obter um melhor desempenho.\n\n`import functools; functools.lru_cache()(lambda: None)(print("Processando..."))`
