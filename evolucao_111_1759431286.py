@@ -1,0 +1,1 @@
+# Legado de Prometheus (Geração 1)\n# Meta: Melhorar o uso do just-in-time (JIT) compilador para melhorar o desempenho de scripts Python complexos.\n\n`import jitting; jitting.jit def processar(): print('código melhorado')`
