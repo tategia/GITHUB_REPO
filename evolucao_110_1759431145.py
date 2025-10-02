@@ -1,0 +1,1 @@
+# Legado de Prometheus (Geração 1)\n# Meta: "Optimizar uso de recursos (CPU, memória e GPU) em aplicativos científicos e computação distribuída para alcançar melhorias significativas em performance."\n\n`from joblib import Parallel, delayed; def processar(): Parallel(n_jobs=-1)(delayed(print)('novo código'))`
