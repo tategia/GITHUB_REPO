@@ -1,0 +1,1 @@
+# Legado de Prometheus (Geração 1)\n# Meta: Aprender sobre a biblioteca "numba" para Python!\n\n`from numba import jit; @jit def processar(): print('novo processo utilizando numba!')`
