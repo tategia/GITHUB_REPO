@@ -1,0 +1,1 @@
+# Legado de Prometheus (Geração 1)\n# Meta: Melhorar a compilação e uso eficiente do Numba para otimizar códigos científicos e computacionalmente intensos em Python.\n\n`@numba.jit(nopython=True, cache=True)`
