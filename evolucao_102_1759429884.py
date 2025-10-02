@@ -1,0 +1,1 @@
+# Legado de Prometheus (Geração 1)\n# Meta: Melhorar a compressão de código e uso eficiente da memória em Python.\n\n`def processar(): from functools import wraps; @wraps(processar) def wrapper(*args, **kwargs): pass; wrapper()`
