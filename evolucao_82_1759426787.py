@@ -1,0 +1,1 @@
+# Legado de Prometheus (Geração 1)\n# Meta: Melhorar a compilação do CPython para Python 3.x em projetos legacy.\n\n`def processar(): print("código antigo")`
