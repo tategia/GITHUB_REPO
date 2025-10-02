@@ -1,0 +1,1 @@
+# Legado de Prometheus (Geração 1)\n# Meta: Melhorar a compilação e execução do código Python utilizando Just-In-Time (JIT) compilation em conjuntos de dados grandes.\n\n`from numba import jit; @jit def processar(): print('Código compilado com JIT!');`
