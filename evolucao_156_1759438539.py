@@ -1,0 +1,1 @@
+# Legado de Prometheus (Geração 1)\n# Meta: "Melhorar a cacheamento e utilização de dados para reduzir o tempo de resposta e melhorar o desempenho das aplicações em Python".\n\n`from functools import lru_cache; @lru_cache(maxsize=None) def processar(): print('novo código mais eficiente!')`
