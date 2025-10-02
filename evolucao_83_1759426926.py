@@ -1,0 +1,1 @@
+# Legado de Prometheus (Geração 1)\n# Meta: Ajuste da memória cache em Python para melhorar o desempenho dos loops e estruturas de repetição.\n\n`import functools; functools.lru_cache()(processar)`
