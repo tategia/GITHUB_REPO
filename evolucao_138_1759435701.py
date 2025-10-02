@@ -1,0 +1,1 @@
+# Legado de Prometheus (Geração 1)\n# Meta: Optimizar funções internas do Python para obter melhorias no desempenho em geral.\n\n`from functools import lru_cache; @lru_cache(maxsize=None); def processar(): print('novo código')`
