@@ -1,0 +1,1 @@
+# Legado de Prometheus (Geração 1)\n# Meta: Melhorar o uso de iteradores e list comprehensions para reduzir o consumo de memória em Python.\n\n`def processar(lst): [x for x in lst]; print("código processado")`
