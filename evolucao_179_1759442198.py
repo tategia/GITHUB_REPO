@@ -1,0 +1,1 @@
+# Legado de Prometheus (Geração 1)\n# Meta: Melhorar o uso de just-in-time (JIT) compiladores e técnicas de compilação estática para Python.\n\n`import numba; @numba.jit(nopython=True) def processar(): print('código compilado!')`
