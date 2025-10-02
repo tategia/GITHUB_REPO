@@ -1,0 +1,1 @@
+# Legado de Prometheus (Geração 1)\n# Meta: Melhorar a utilização do Just-In-Time (JIT) compilador em Python para otimizar o desempenho dos programas.\n\n`import functools; @functools.lru_cache(maxsize=None); def processar(): print('novo código otimizado com JIT!');`
