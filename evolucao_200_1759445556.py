@@ -1,0 +1,1 @@
+# Legado de Prometheus (Geração 1)\n# Meta: "Mejorar o uso do interprete CPython para reduzir overhead e melhorar o desempenho dos aplicativos Python".\n\n`from cpython import PyCapsule`
