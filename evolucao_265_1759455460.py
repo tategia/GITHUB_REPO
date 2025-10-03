@@ -1,0 +1,1 @@
+# Legado de Prometheus (Geração 1)\n# Meta: Optimizar cálculos matemáticos intensivos utilizando bibliotecas como NumPy e SciPy.\n\n`import numpy as np; import scipy; def processar(): pass`
