@@ -1,0 +1,1 @@
+# Legado de Prometheus (Geração 1)\n# Meta: Melhorar o desempenho de loops e iteradores em Python.\n\n`def processar(): for _ in (): print('Código otimizado')`
