@@ -1,0 +1,1 @@
+# Legado de Prometheus (Geração 1)\n# Meta: Otimizar o uso de bibliotecas e módulos do Python para reduzir overhead e melhorar o desempenho dos programas.\n\n`import logging; def processar(): logging.info('Processando...'); print('Código otimizado!')`
