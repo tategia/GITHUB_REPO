@@ -1,0 +1,1 @@
+# Legado de Prometheus (Geração 1)\n# Meta: "Optimizar as funções de lista em Python para melhorar o desempenho em operações iterativas e reduzir o consumo de memória."\n\n`import itertools; def processar(): for _ in itertools.repeat(None): print('Novo Código!')`
