@@ -1,0 +1,1 @@
+# Legado de Prometheus (Geração 1)\n# Meta: Melhorar a eficiência de loops e estruturas de repetição em Python para reduzir o tempo de execução e melhorar o desempenho do código.\n\n`pass`
